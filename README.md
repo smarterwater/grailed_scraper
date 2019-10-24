@@ -1,7 +1,9 @@
 # grailed_scraper
 
-An application made to scrape the men's fashion marketplace Grailed. Made to increase my productivity - instead of spending hours looking for deals on cool clothes, I made a program that will do it for me.
+A script to scrape the men's fashion marketplace Grailed.
+On first run, enter the search terms to be locally stored in a .json file.
+Then after that when ran the script will run a search with your stored terms, scrape the front page of listings and email you the URLs.
 
-Users can set the program up by entering the brand to search for, their clothing sizes, as well as their price limit, which will all be stored into a local .json file. 
+Modules used: BeautifulSoup4 and Selenium
 
 
