@@ -7,5 +7,6 @@ Following runs of the script will run a search with the stored terms, scrape the
 
 ## Built With
 BeautifulSoup4
+
 Selenium
 
